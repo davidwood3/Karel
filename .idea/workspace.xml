@@ -4,12 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7c16db6-8fac-4438-ad41-0a998b998392" name="Changes" comment="SecondCommit">
-      <change afterPath="$PROJECT_DIR$/Ch05/PromptTemp1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch05/PromptTemp2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch05/PromptTemp3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch05/PromptTemp4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notes.txt" afterDir="false" />
+    <list default="true" id="b7c16db6-8fac-4438-ad41-0a998b998392" name="Changes" comment="Start to end of Chapter 5">
+      <change afterPath="$PROJECT_DIR$/Ch06/AgentTools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/CreateSQL_Chain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/LLM_runnableLambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/MemoryChain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/Pipes2_Chain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/SequentialChain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/llmChain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/ConversationalBuffer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/ConversationalBufferWindow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/ConversationalSummaryBuffer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/Example-Chat-ChatMessageHistory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch08/AgentWithChromaDB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch08/ChromaDB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch08/documents/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch08/documents/file3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch08/documents/file4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch09/ChatWithDocuments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documents/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documents/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documents/file3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documents/file4.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,22 +66,40 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.AgentTools.executor": "Run",
+    "Python.AgentWithChromaDB.executor": "Run",
+    "Python.ChatWithDocuments.executor": "Run",
+    "Python.ChromaDB.executor": "Run",
     "Python.ClaudePrompt.executor": "Run",
+    "Python.ConversationalBuffer.executor": "Run",
+    "Python.ConversationalBufferWindow.executor": "Run",
+    "Python.ConversationalSummaryBuffer.executor": "Run",
+    "Python.CreateSQL_Chain.executor": "Run",
+    "Python.Example-Chat-ChatMessageHistory.executor": "Run",
     "Python.HelloWorld.executor": "Run",
+    "Python.LLM_runnableLambda.executor": "Run",
+    "Python.MemoryChain.executor": "Run",
+    "Python.Pipes2_Chain.executor": "Run",
     "Python.PromptTemp1.executor": "Run",
     "Python.PromptTemp2.executor": "Run",
     "Python.PromptTemp3.executor": "Run",
+    "Python.SequentialChain.executor": "Run",
     "Python.firstPrompt.executor": "Run",
+    "Python.llmChain.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.codeium.enabled": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Data/AI2024/Code-2024/Karel"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Data/AI2024/Code-2024/Karel",
+    "settings.editor.selected.configurable": "settings.codegpt.services.openai"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Data\AI2024\Code-2024\Karel" />
+      <recent name="C:\Data\AI2024\Code-2024\Karel\Ch08" />
+      <recent name="C:\Data\AI2024\Code-2024\Karel\Ch07" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -100,12 +134,21 @@
       <option name="project" value="LOCAL" />
       <updated>1732748216204</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Start to end of Chapter 5">
+      <option name="closed" value="true" />
+      <created>1732847578164</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732847578164</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="FirstCommit" />
     <MESSAGE value="SecondCommit" />
-    <option name="LAST_COMMIT_MESSAGE" value="SecondCommit" />
+    <MESSAGE value="Start to end of Chapter 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start to end of Chapter 5" />
   </component>
 </project>
