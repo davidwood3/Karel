@@ -98,7 +98,7 @@ def savechattochroma(human, ai):
         docsx.append(Document(page_content=f"human: {human_content}"))
         docsx.append(Document(page_content=f"AI: {ai_content}"))
         vector_store.add_documents(documents=docsx)
-        vector_store.persist()  # Ensure changes are saved
+        # vector_store.persist()  # Ensure changes are saved
     except Exception as e:
         print(f"Error saving chat history: {e}")
 
