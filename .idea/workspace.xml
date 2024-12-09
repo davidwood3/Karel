@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7c16db6-8fac-4438-ad41-0a998b998392" name="Changes" comment="Start to end of Chapter 8">
-      <change afterPath="$PROJECT_DIR$/Ch08/ChromaDB2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch08/documents/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch09/ChatWithDocuments2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch09/documents/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch09/documents/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch09/documents/file3.txt" afterDir="false" />
+    <list default="true" id="b7c16db6-8fac-4438-ad41-0a998b998392" name="Changes" comment="Start to end of Chapter 9">
+      <change afterPath="$PROJECT_DIR$/Ch10/AgentNoTools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch10/AgentWithTools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch11/TavilyTool.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch08/ChromaDB.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch08/ChromaDB.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch09/ChatWithDocuments.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch09/ChatWithDocuments.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documents/file4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch09/documents/file4.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +50,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.AgentNoTools.executor": "Run",
     "Python.AgentTools.executor": "Run",
     "Python.AgentWithChromaDB.executor": "Run",
+    "Python.AgentWithTools.executor": "Run",
     "Python.ChatWithDocuments.executor": "Run",
     "Python.ChatWithDocuments2.executor": "Run",
     "Python.ChromaDB.executor": "Run",
@@ -76,6 +72,7 @@
     "Python.PromptTemp2.executor": "Run",
     "Python.PromptTemp3.executor": "Run",
     "Python.SequentialChain.executor": "Run",
+    "Python.TavilyTool.executor": "Run",
     "Python.firstPrompt.executor": "Run",
     "Python.llmChain.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -150,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733441240732</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Start to end of Chapter 9">
+      <option name="closed" value="true" />
+      <created>1733622934217</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733622934217</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -158,6 +163,7 @@
     <MESSAGE value="SecondCommit" />
     <MESSAGE value="Start to end of Chapter 5" />
     <MESSAGE value="Start to end of Chapter 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start to end of Chapter 8" />
+    <MESSAGE value="Start to end of Chapter 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start to end of Chapter 9" />
   </component>
 </project>
